@@ -4,6 +4,7 @@ class CreateResponses < ActiveRecord::Migration[6.1]
       t.string :result
       t.string :status
       t.string :full_result
+      t.string :token
 
       t.timestamps
     end

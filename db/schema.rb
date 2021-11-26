@@ -16,6 +16,7 @@ ActiveRecord::Schema.define(version: 2021_11_23_123713) do
     t.string "result"
     t.string "status"
     t.string "full_result"
+    t.string "token"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end

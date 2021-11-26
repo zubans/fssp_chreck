@@ -110,6 +110,7 @@ GEM
     minitest (5.14.4)
     msgpack (1.4.2)
     mysql2 (0.5.3)
+    net-telnet (0.2.0)
     netrc (0.11.0)
     nio4r (2.5.8)
     nokogiri (1.12.5-x86_64-linux)
@@ -228,6 +229,7 @@ DEPENDENCIES
   jbuilder (~> 2.7)
   listen (~> 3.3)
   mysql2
+  net-telnet
   puma (~> 5.0)
   rack-mini-profiler (~> 2.0)
   rails (~> 6.1.4, >= 6.1.4.1)
